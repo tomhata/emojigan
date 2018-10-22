@@ -29,3 +29,5 @@ EmojiGAN is a Deep Convolutional Generative Adversarial Network that generates e
 
  - Plain python script equivalent of **emoji_dcgan.ipynb** to generate and train the DCGAN model.
  - Script to automatically generate new emojis using the trained generator model.
+
+ <img src="assets/emoji_gan_progression.gif" />
