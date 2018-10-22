@@ -22,7 +22,7 @@ EmojiGAN is a Deep Convolutional Generative Adversarial Network that generates e
 
  - Move downloaded emoji files into directory **'/data/emoji_test_set/'**.
  - (Optional) Remove any unwanted groups of emojis. E.g., the data used in the model located in **'/models/'** was trained with approximately half the data set omitted. The omitted data were inanimate objects such as flags, buildings, etc. A text file list of the emojis used in the training set can be found in the **'/models/'** directory.
- - Run the **emoji_dcgan.ipynb** Jupyter notebook file for an interactive walkthrough to generate and train the model. 
+ - Run the **emojigan.ipynb** Jupyter notebook file for an interactive walkthrough to generate and train the model. 
  - Trained models are available in the **'/models/'** directory. The generator model can be loaded and used to create new emojis.
 
 ## Coming soon
